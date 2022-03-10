@@ -6,19 +6,7 @@ The code consists both Projects 1 and Projects 2.
 Editing the config.json doc will configure how the model operates. All parameters, what they are and how they perform can be found in the write up doc.
 Code is under-commented as it was mainly used to develop and validate models against training data.
 
-
-
-# To-Do
-
-  
-
-- Integrate Monte Carlo Sims with CVaR Optimization
-
-- Make everything robust
-
-- Migrate the good stuff from Project 1
-
-  
+Read the write up of our findings and model development in Project_2.pdf  
 
 # When Running the Code
 
