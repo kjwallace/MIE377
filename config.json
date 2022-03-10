@@ -1,0 +1,14 @@
+{
+    "opt_type": "bear_bull_signal",
+    "factor_type": "stepwise",
+    "test_years": 4.5,
+    "turnover_penalty": "false",
+    "turnover_lambda": 0.01,
+    "sharpe_iter_sigma": 0,
+    "cvar_alpha": 0.95,
+    "mc_port_nPortfolios": 20000,
+    "mc_stock_nPaths": 20000,
+    "mc_stock_lb": 0,
+    "mc_stock_ub": 1,
+    "robust_ci": 0.75
+}

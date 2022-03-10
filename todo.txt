@@ -1,0 +1,5 @@
+# To-Do
+
+- Integrate Monte Carlo Sims with CVaR Optimization
+- Make everything robust
+- Migrate the good stuff from Project 1
